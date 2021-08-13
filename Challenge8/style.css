@@ -36,7 +36,6 @@ ul{
 .header-container li a:hover{
     border-bottom: 2px solid #444E5E;
     border-width: 4px;
-    transform: scale(1);
 }
 
 .btn-header button{
